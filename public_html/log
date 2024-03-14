@@ -1,0 +1,9 @@
+
+17/09/2022 to do
+need to put the texta area at the exact center of its div block 
+
+halfsine : 
+    if(i & 0x8000)  sinewave[i] = i;  
+      else sinewave[i] = 255-i; 
+
+create a kind of saw sound like the casio czxxx
